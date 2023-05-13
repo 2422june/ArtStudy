@@ -1,0 +1,32 @@
+AE다운하기("AE다운" 사진 참고)
+ 1. 사진 보고 다운받기
+ 2. 다운 후 AE 한번 지우고 영어로 다시 다운
+ 2-2. 재 다운하는 이유: 그냥 깔려있으면 한글버전임, 수업하는게 영어가 더 편해서 그럼
+
+가사
+ 파이팅 해야지
+ 파이팅
+
+ 아뿔싸 일어나야지 아침인데
+ 눈 감았다 뜨니 해가 중천인데
+ 아침밥은 Pass 10분 더 자야 돼 Oh
+ Take-out coffee로 (아메 아메 아메 아메)
+
+사용효과
+ 01. ease in, ease out
+ 02. gradient ramp
+ 03. position
+ 04. scale
+ 05. rotation
+ 06. matte
+ 07. cc pixel polly
+ 08. opacity
+ 09. offset
+ 10. skew
+등
+
+진행방식
+ 1. 폰트 다운로드(Noto_Sans_KR 폴더 열고 다운)
+ 2. AfterEffect 열기
+ 3. new project -> new coposition -> duration은 0;00;22;04
+ 4. project창 더블클릭 후 "부석순 SEVENTEEN---.mp3" 넣기
